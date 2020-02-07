@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9cc7143a6a9aa865c94cfe95fed270f4",
+    "revision": "07c41ccad1246d49c7eee42d1f5d3ba2",
     "url": "/kimyoungjo-portfolio/index.html"
   },
   {
-    "revision": "dbe564efcd5f03a9ea8f",
+    "revision": "3fc2a79cc002192b56b6",
     "url": "/kimyoungjo-portfolio/static/css/main.0b7ca9ee.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kimyoungjo-portfolio/static/js/2.18ee84e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dbe564efcd5f03a9ea8f",
-    "url": "/kimyoungjo-portfolio/static/js/main.54397138.chunk.js"
+    "revision": "3fc2a79cc002192b56b6",
+    "url": "/kimyoungjo-portfolio/static/js/main.f430a5a7.chunk.js"
   },
   {
     "revision": "9498dd822b275f3f9d42",
